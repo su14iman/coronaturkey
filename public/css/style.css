@@ -1,0 +1,170 @@
+.nav-bar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.title-bar{
+	background: #c92e39;
+}
+
+article {
+    padding-right: 10px;
+}
+
+.sliderBarBackground {
+    background-color: #c92e39;
+}
+
+.logo{
+	text-align: center;
+}
+.logo img{
+	 width: 70%;
+}
+
+.SideBarButtons{
+
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+.SideBarButtons button{
+	color:#fff;
+	padding: 2%;
+	margin-bottom: 5%;
+	width: 100%;
+	/*width: 80%;
+	border-radius: 0;
+	border-bottom: 1px solid #fff;
+	*/
+}
+
+.SideBarButtons button:hover{
+	color:#fff;
+	background-color: #af2832;
+}
+
+
+
+.SonHabirlarScroll marquee{
+	background: #000;
+    padding: 1%;
+    /*border-top-color: rgb(255, 255, 255);*/
+    border-bottom-color: white;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+.SonHabirlarScroll marquee strong a{
+	color: red;
+}
+
+
+
+.DovizScroll{
+	margin-top: -5px;
+	padding: 5px;
+    text-align: center;
+}
+.DovizScroll a{
+	margin-left: 5%;
+}
+
+
+/*End Head*/
+
+
+
+
+
+
+
+/*Body*/
+.BodyContent{
+	width: 98%;
+	margin: auto;
+	padding: 1%;
+	/*border-radius: 3px;*/
+	/*border:1px solid #595858;*/
+	/*background-color: #f7f7f7;*/
+
+}
+
+.ads{
+	background-color: #000;
+	border:1px solid red;
+	/*margin: 2%;*/
+	color: #fff;
+}
+
+
+.NewsSlider{
+	margin-bottom: 2%;
+}
+
+
+
+/*Index page*/
+.TurkeyMaps{
+    margin: 2%;
+}
+
+
+.WorldMaps{
+	margin: 2%;
+}
+
+
+
+
+/* NewsView Page*/
+.NewsViewSection{
+	margin: 2%;
+	text-align: center;
+}
+
+.NewsViewSection .imageNewsViewSection{
+	width: 90%;
+	margin: auto;
+}
+
+
+/*End Body*/
+/* Footer */
+
+
+
+
+
+.Footer{
+	text-align: center;
+	padding: 2% 2% 1% 2%;
+	background-color: #4b4b4b;
+	color: #fff;
+}
+
+.FooterContener div table tbody{
+	border: 0px;
+	background-color: #4b4b4b;
+	text-align: left;
+}
+
+.FooterContener div table tbody tr{
+	border: 0px;
+	background-color: #4b4b4b;
+}
+
+.FooterContener div table tbody tr td a{
+	color:#fff;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
